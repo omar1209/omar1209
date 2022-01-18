@@ -1,4 +1,4 @@
-###  Hello there! 🙂👋
+###  Hello there! 
 
 <!--
 **omar1209/omar1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
