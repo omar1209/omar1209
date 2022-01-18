@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hello there! 🙂👋
 
 <!--
 **omar1209/omar1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 🤔
+
+
+**Degree**: Bachelor of Applied Science 
+
+**Major**: Biomedical Engineering
+
+**University**: University of British Columbia
+
+**I am currently learning**: Ruby on Rails, HTML, CSS, and Bootstrap
+
+**I am currently working on**: Completing my [gratitude web application](https://github.com/omar1209/gratit-you-de)! 
+
+**Interests**: Programming | Learning history | Photography | Economics
+
+**Ask me about**: Ruby 💻 and history 📜!
+
+### Extracurricular Activities 🧐
+
+**I participated in**: [The nwHacks 2022 hackathon!](https://www.nwhacks.io/) 
+
+**I am using the following platforms to learn new languages**:
+
+* [The Complete Ruby on Rails Developer Course on Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
+* [Responsive Web Design on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+* [Learn Ruby on Codecademy](https://www.codecademy.com/learn/learn-ruby)
