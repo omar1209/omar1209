@@ -1,4 +1,4 @@
-###  Hello there! 
+##  Hello there! 👋
 
 <!--
 **omar1209/omar1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ### About Me 🤔
 
-
 **Degree**: Bachelor of Applied Science 
 
 **Major**: Biomedical Engineering
@@ -31,6 +30,8 @@ Here are some ideas to get you started:
 **Interests**: Programming | Learning history | Photography | Economics
 
 **Ask me about**: Ruby 💻 and history 📜!
+
+---
 
 ### Extracurricular Activities 🧐
 
