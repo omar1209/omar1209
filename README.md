@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 🤔
+### About Me
 
 **Degree**: Bachelor of Applied Science 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **I am currently working on**: Completing my [gratitude web application](https://github.com/omar1209/gratit-you-de)! 
 
-**Interests**: Programming | Learning history | Photography | Economics
+**Interests**: Programming | History | Photography | Economics
 
 **Ask me about**: Ruby 💻 and history 📜!
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Extracurricular Activities 🧐
+### Extracurricular Activities
 
 **I participated in**: [The nwHacks 2022 hackathon!](https://www.nwhacks.io/) 
 
